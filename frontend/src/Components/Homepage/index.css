@@ -1,0 +1,68 @@
+/* *{
+    
+} */
+.body {
+   
+	height: 100vh;
+	width: 100vw;
+	margin:0;
+    padding: 0%;
+    font-family: sans-serif;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+.h_title h1 {
+    margin-top: 0.5em;
+    margin-left: 39%;
+    color: #282A4D;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 40px;
+}
+.h_head{
+	margin: 00px;
+}
+.h_title{
+	margin: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+	color: #282A4D;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.report {
+	box-shadow:inset 0px 1px 0px 0px #498d96;
+	background-color:#498d96;
+	border-radius:1px;
+	border:1px solid #498d96;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:19px;
+	padding:6px 72px;
+	text-decoration:none;
+	text-shadow:0px -2px 0px #498d96;
+}
+.cardc{
+	margin-top: 5em;
+    display: flex;
+	/* margin-left: 460px; */
+	justify-content: space-evenly;
+}
+
+.mini_h {
+	color: #282A4D;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	margin: 20px 150px 0px 150px;
+	font-size: 20px;
+	text-align: justify;
+}
+
+.pic {
+	margin-top: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 35%;
+}

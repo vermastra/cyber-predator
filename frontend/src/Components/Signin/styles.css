@@ -1,0 +1,50 @@
+.sign{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    overflow: hidden;
+    background-color: #282A4D;
+}
+.sign_cont{
+    margin: auto auto;
+    height: auto;
+    width: auto;
+    border: 3px solid #498d96;
+    border-radius: 0px 20px 0px 20px;
+    background: #498d96;
+}
+.sign_head{
+    color: #fff;;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: x-small;
+}
+.sign_data{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    padding-top: 00px;
+}
+.sign_data input{
+    /* border: none; */
+    outline: none;
+    text-align: left;
+    /* height: 46px;
+    width: 412px; */
+    padding: 8.5px 10px;
+    margin: 8px;
+}
+
+.sign_data .roles{
+    outline: none;
+    text-align: left;
+    padding: 8.5px 12px;
+    margin: 8px 14px;
+    width: 348px;
+}
+.logu{
+    margin: 5px;
+}
