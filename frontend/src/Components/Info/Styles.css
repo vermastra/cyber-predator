@@ -1,0 +1,78 @@
+/* .Info_main{
+    width: 100vw;
+    overflow-y: scroll;
+    background-image: url('../../Images/Img2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: 100%;
+    opacity: 0.3;
+} */
+
+h1{
+	
+    text-align: center;
+	padding: 15px;
+	color: #282A4D;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.info_head{
+    font-size: 35px;
+    margin: 5px;
+    padding: 15px;
+    color: #282A4D;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sub_head{
+    font-size: 25px;
+    margin: 6px;
+    padding: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #2f494d;
+}
+.info_cont{
+    font-size: 20px;
+    text-align: justify;
+    padding: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #498d96;
+}
+.art1 ul{
+    background-color:wheat;
+    
+}
+.art1 ul li{
+   
+    display: inline;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.info_subPoints{
+    display: flex;
+   
+}
+.info_subPoints .info_img{
+    display: flex;
+    justify-content: end;
+}
+
+.info_subPoints .info_img img{
+    width: 50%;
+  
+
+}
+.sub_points{
+
+    display: flex;
+    flex-direction: column;
+    padding: 12px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.sub_points .pp{
+
+    font-size: 17px;
+    margin-left: 20px;
+    margin-top: 7px;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}

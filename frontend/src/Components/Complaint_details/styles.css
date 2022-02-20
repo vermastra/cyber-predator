@@ -1,0 +1,31 @@
+.complain{
+    margin: 20px;
+}
+.com_head{
+    display: flex;
+    align-items: flex-start;
+    font-size: 25px;
+    background-color: grey;
+    display: block;
+}
+.complaint_details .each {
+    display: flex;
+    margin: 10px;
+}
+.complaint_details .each div{
+    width: 25%;
+    align-items: flex-start;
+    text-align: left;
+}
+.complaint_details .each input{
+   width: 60%;
+}
+.cr{
+    height: 40px;
+    align-items: center;
+}
+#crime{
+    width: 260px;
+    height: 40px;
+    cursor: pointer;
+}

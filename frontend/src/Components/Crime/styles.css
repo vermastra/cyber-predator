@@ -1,0 +1,98 @@
+.crimeStart{
+    margin-left: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 100vh;
+}
+.crimeStart .crimeLeft, .crimeStart .crimeRight{
+    flex: 1;
+}
+
+.crimeStart .crimeLeft{
+    padding: 2rem 2rem ;
+
+}
+
+.crimeStart  .crimeLeft h1{
+    margin-bottom: 1.5rem;
+    line-height: 55px;
+    font-size: 3rem;
+    font-weight: 500;
+    color:#282A4D;
+}
+.crimeStart .crimeLeft p{
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 25px;
+    align-items: left ;
+    color:#282A4D;
+}
+.crimeStart .crimeRight img{
+    width: 90%;
+    
+}
+.crimeStart .crimeLeft .crimeButton{
+    margin-top: 3rem;
+}
+.crimeStart .crimeLeft .crimeButton a{
+    box-shadow:inset 0px 1px 0px 0px #498d96;
+	background-color:#498d96;
+	border-radius:1px;
+	border:1px solid #498d96;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:19px;
+	padding:6px 72px;
+	text-decoration:none;
+	text-shadow:0px -2px 0px #498d96;
+}
+.crimeStart .crimeLeft a{
+    
+    outline: none;
+    border: none;
+    background-color: transparent;
+    font-size: 1rem;
+    text-decoration: underline;
+    color: #424b5a9f;
+    cursor: pointer;
+}
+
+  
+@media only screen and (max-width:500px){
+    .crimeStart .crimeLeft {
+      padding:0 1rem;
+    }
+    .crimeStart .crimeLeft::before {
+      content: "";
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      /* Specify the background image to be used */
+      background-image: url('../image/CyberSecurity.jpeg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-size: 80%;
+  
+      /* Specify the background image */
+      opacity: 0.2;
+  }
+    .crimeStart .crimeLeft  h1{
+     font-size: 2.2rem;
+      line-height: 35px;
+    }
+    .crimeStart .crimeLeft p { 
+       font-size: 1rem;
+       color: #000;
+    }
+    .crimeStart .crimeRight{
+      display: none;
+    }
+  }
+
+ 

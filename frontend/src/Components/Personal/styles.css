@@ -1,0 +1,22 @@
+.personal{
+    margin: 20px;
+}
+.per_head{
+    display: flex;
+    align-items: flex-start;
+    font-size: 25px;
+    background-color: grey;
+    display: block;
+}
+.person_details .each {
+    display: flex;
+    margin: 10px;
+}
+.person_details .each div{
+    width: 25%;
+    align-items: flex-start;
+    text-align: left;
+}
+.person_details .each input{
+   width: 60%;
+}

@@ -1,0 +1,27 @@
+.accordion-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.view{
+    width: 12.5rem;
+    margin-left: 10px;
+}
+
+.discrip{
+    max-height: 4rem;
+    overflow: auto;
+    margin-bottom: 8px;
+}
+
+.search {
+    display: flex;
+    justify-content: space-between;
+    width: 13rem;
+    margin: 10px auto;
+}
+
+.search select{
+    background-color: #e7f1ff;
+    padding: 0 10px;
+}
