@@ -2,7 +2,7 @@
 
 Cyberbullying is a serious type of crime where most teens fall into the trap. Due to increasing use of the internet, the rate of crime is also increasing exponentially. So keeping an eye on the 
 Crime rate, we have decided to build an application that helps us reduce the crime rate.
- So, we have built an application, Cyber Predator. 
+ So, we have built an application, [Cyber Predator](https://cyber-predator.herokuapp.com/). 
 
 What is CyberPredator?
 
@@ -14,7 +14,6 @@ It is an application that helps victims to report their crime to organizations t
 3. A panel only for authority members to view and take action on behalf of the victim only for their respective departments.
 4. A panel of discussion for all members where they can discuss the different ways to stop crime of various issues, where experts and people with high profile would be present.
 5. An information page to get updated information about the current situation of cyberbullying.
-
 
 
 ## Tech Stacks:
