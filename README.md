@@ -15,6 +15,8 @@ It is an application that helps victims to report their crime to organizations t
 4. A panel of discussion for all members where they can discuss the different ways to stop crime of various issues, where experts and people with high profile would be present.
 5. An information page to get updated information about the current situation of cyberbullying.
 
+## Video Explaination:
+https://user-images.githubusercontent.com/78556885/175784752-44b47c9e-c608-40bb-bba5-b52b5da85650.mp4
 
 ## Tech Stacks:
 
