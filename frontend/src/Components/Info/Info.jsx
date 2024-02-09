@@ -1,6 +1,6 @@
 import React from "react";
 import "./Styles.css";
-import img2 from "../../Images/Img2.jpg"
+import img1 from "../../Images/Img1.jpg"
 function Info() {
   return (
     <div className="Info_main">
@@ -40,7 +40,7 @@ function Info() {
           <div className="pp">-- Online Gaming Communities</div>
         </div>
         <div className="info_img">
-          <img src={img2}></img>
+          <img src={img1}></img>
         </div>
 
 
