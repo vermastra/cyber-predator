@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "name": "cyber-predator",
+  "builds": [
+    {
+      "src": "server.js",  // path to your server.js file
+      "use": "@vercel/node"
+    }
+  ],
+
+  "routes": [
+    {
+      "source": "/(.*)",
+      "destination": "/server.js"
+    }
+  ]
+}
